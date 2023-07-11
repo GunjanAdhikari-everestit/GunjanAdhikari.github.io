@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>All about Gunjan</title>
+</head>
+<body>
+<h2>Main stuff<h2>
+	<p>My name is Gunjan. I am 11 years old.My favorite color is yellow. I like to bike, read, draw and hangout with my family and friends. 
+ 
+
